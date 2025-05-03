@@ -25,7 +25,7 @@ Developed a full pipeline for word-level visual speech recognition:
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL, R, Java
+- **Languages**: Python, SQL, R, JavaScript
 - **Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
 - **Infrastructure**: AWS, Docker, GCP Workbench
 - **APIs & Platforms**: Alpaca, ffmpeg, OpenCV, WhisperX
